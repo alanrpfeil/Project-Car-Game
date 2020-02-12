@@ -1,0 +1,80 @@
+﻿  App.cpp
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\objectdimensions.h(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\objectdimensions.h(5): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\objectdimensions.h(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\objectdimensions.h(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\objectdimensions.h(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\objectdimensions.h(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\engine.h(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\engine.h(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\engine.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gearbox.h(31): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gearbox.h(35): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\car.h(27): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\car.h(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\car.h(40): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\car.h(51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\car.h(204): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\car.h(224): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(89): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(93): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(97): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(101): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(105): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(121): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(188): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\obstacle.h(191): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(42): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(43): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(44): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(45): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(46): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(47): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(48): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(49): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(51): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(52): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(53): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\intro.h(71): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(106): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(142): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(178): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(214): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(250): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(286): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(322): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(328): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(330): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(331): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(332): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(334): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(335): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(336): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gameover.h(337): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gamewon.h(23): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gamewon.h(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gamewon.h(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gamewon.h(32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gamewon.h(47): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(27): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(74): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(75): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(76): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(77): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(120): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(222): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(234): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(246): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(258): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\app.cpp(270): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\cse165\project car game\project car game\visualc15\gearbox.h(88): warning C4715: 'gearbox::getCurrentGear': not all control paths return a value
+  glutapp.vcxproj -> C:\Users\Alan\Downloads\CSE165\Project Car Game\Project Car Game\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)
